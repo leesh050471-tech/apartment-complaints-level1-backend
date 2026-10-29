@@ -26,3 +26,8 @@ cp .env.example .env   # 값을 채운 뒤
 npm install
 npm run start:dev
 ```
+
+## 배포 주소
+- 백엔드(Render): https://apartment-complaints-level1-backend.onrender.com (`/health`로 DB 연결 확인)
+- 화면(Vercel): https://apartment-complaints-level1-fronten-delta.vercel.app
+- 프론트엔드 저장소: https://github.com/leesh050471-tech/apartment-complaints-level1-frontend
